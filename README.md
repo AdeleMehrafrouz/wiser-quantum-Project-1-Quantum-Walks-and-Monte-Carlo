@@ -121,7 +121,7 @@ You can also explore:
 ## Team
 
 * Adele Mehrafrouz
-  Womanium + WISER Quantum Program 2025 Participant
+* Womanium + WISER Quantum Program 2025 Participant
 
 ---
 
