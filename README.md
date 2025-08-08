@@ -1,4 +1,4 @@
-# Wiser-quantum-Project1 - Quantum Walks and Monte Carlo
+# WISER Quantum Project-1 - Quantum Walks and Monte Carlo
 
 This repository implements a **quantum version of the Galton Box** using Qiskit and simulates various probabilistic distributions, including:
 
@@ -6,7 +6,7 @@ This repository implements a **quantum version of the Galton Box** using Qiskit 
 * **Exponential distributions** using Rx-biasing
 * **Quantum walks** using discrete-time Hadamard quantum circuits
 
-It is developed as part of the **Womanium + WISER 2025 Quantum Program** challenge on quantum-enhanced statistical simulation.
+It is developed as part of the **WISER Quantum Project** challenge on quantum-enhanced statistical simulation.
 
 ---
 
@@ -121,7 +121,7 @@ You can also explore:
 ## Team
 
 * Adele Mehrafrouz
-* Womanium + WISER Quantum Program 2025 Participant
+* WISER Quantum Project
 
 ---
 
