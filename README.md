@@ -1,4 +1,4 @@
-# wiser-quantum-Project-1-Quantum Walks and Monte Carlo
+# Wiser-quantum-Project1 - Quantum Walks and Monte Carlo
 
 This repository implements a **quantum version of the Galton Box** using Qiskit and simulates various probabilistic distributions, including:
 - **Gaussian distributions** via Hadamard gates
