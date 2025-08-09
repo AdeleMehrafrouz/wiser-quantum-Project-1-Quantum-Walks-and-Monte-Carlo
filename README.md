@@ -79,7 +79,7 @@ pip install -r requirements.txt
 python circuits/galton_generator.py
 python circuits/biased_distribution.py
 python circuits/hadamard_walk.py
-python metrics/distance_metrics.py
+python metrics/distance_metrics_multi.py
 
 # Generalized and modular simulations:
 python circuits/galton_generator_multi.py
