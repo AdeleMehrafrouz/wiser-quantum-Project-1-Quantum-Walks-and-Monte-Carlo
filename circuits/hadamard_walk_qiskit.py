@@ -90,7 +90,7 @@ def run_walk_simulation(steps: int, shots: int = 2048) -> Dict[int, float]:
     dist = {}
     for bitstring, c in counts.items():
         idx = int(bitstring, 2)
-        # shift to [-steps, +steps] to be human-friendly
+        # shift to [-steps, +steps]
         pos_qubits = len(bitstring)
         span = 2 ** pos_qubits
         # We started at 'steps', so interpret idx relative to that
